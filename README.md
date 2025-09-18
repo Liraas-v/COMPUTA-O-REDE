@@ -1,4 +1,4 @@
-# COMPUTA-O-REDE
+# COMPUTAÇÃO-REDE
 Resumo do lab
 
 Resumo do Laboratório: Computação e Rede – Microsoft Azure AZ-900
